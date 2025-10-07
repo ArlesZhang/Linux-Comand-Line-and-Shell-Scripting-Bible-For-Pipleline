@@ -44,7 +44,7 @@ deb [arch=架构 signed-by=密钥路径] 镜像URL 发行版 组件
 /etc/apt/sources.list       # 传统：主配置文件
 ```
 
-## 🛠️ 实用命令速查
+## 实用命令速查
 
 ### VS Code 安装完整流程：
 ```bash
