@@ -1,0 +1,2 @@
+# Linux-Comand-Line-and-Shell-Scripting-Bible-For-Pipleline
+Designed for Linux learners eager to break through: Through real-world scenarios, this course deconstructs the underlying logic of the Linux command chain and helps you master the core principles of pipelines, permission management, and software configuration. Say goodbye to copy-pasting and understand the design philosophy behind every symbol.
